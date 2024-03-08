@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Tukang Makan</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="about_me">Tentang Saya</string>
+    <string name="judul_nama">Muhammad Haikal Basri</string>
+    <string name="deskripsi_diri">Mobile Software Developer\nhaikalbasrimuhammad@gmail.com</string>
+    <string-array name="data_name">
+        <item>Bubur</item>
+        <item>Coto</item>
+        <item>Gado-Gado</item>
+        <item>Gudeg</item>
+        <item>Gule</item>
+        <item>Martabak Telur</item>
+        <item>Mie Aceh</item>
+        <item>Pempek</item>
+        <item>Sate Madura</item>
+        <item>Toge Goreng</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Bubur adalah makanan yang biasa dimakan saat sarapan sebelum melakukan aktivitas, bubur menurut saya yang enak adalah di jl kebon 200 kalideres. dengan khas buburnya tidak memakai kuah kuning dan ditambah dengan asinan lobak membuat rasanya unik karena beda dari bubut lainnya</item>
+        <item>Coto adalah hidangan khas makasar seperti makanan berkuah lainnya tetapi yang membedakan coto dengan soto adalah coto menggunakan rempah disertai dengan tauco didalamnya yang membuat pekat dan beberapa kondimenlainnya, rasanya pedas asam gurih, untuk isian bisa sesuai keinginan apabila anda tidak bermasalah dengan jeroan sapi maka boleh dicoba, jika bermasalah lebih baik pilih dagingnya saja sebab itu sangatlah enak</item>
+        <item>Gado-Gado adalah makanan yang dijumpai di jalan sekitaran jakarta sesuai dengan namanya umumnya kata gado yakni makan sayuran tanpa dengan nasi/karbo lainnya, gado-gado juga memiliki nama populer " salad with peanut sauce".</item>
+        <item>Gudeg adalah makanan khas jogja dan semarang tergantung dari daerah mananya, gudeg manis umumnya berasal dari jogja sedangkan yang agak pedas umumnya berasa dari semarang karena gudeg semarang biasa dihidangkan denganlauk lauk berbumbu mercon cabai</item>
+        <item>Gule adalah makanan dengan santan sejenis opor namun biasanya gule menggunakan bunga kari dan agak lebih gurih dibanding dengan opor. gule yang terkenal di jakarta yakni gulti (gulai tikungan) yang terletak di daerah dekat sman bulungan jakarta selatan dekat dengan blok M juga</item>
+        <item>Martabak Telur adalah jajanan kerap ditemui di pinggir jalan raya manapun, namun ada 2 jenis martabak, martabak telur lokal biasanya menggunakan cuka seperti pempek tapi agak light(tidak terlalu pekat), sedangkan martabak timur tengah menggunakan kari sebagai kuahnya</item>
+        <item>Mie aceh adalah makanan khas aceh disajikan dengan kuah maupun goreng, keduanya memiliki rasa yang khas karena bumbu dan rempah rempahnya, ditambah dengan udang,cumi dan kepiting</item>
+        <item>Pempek adalah makanan khas palembang yang terbuat dari ikan tengiri yang diolah kemudian digoreng dan disajikan makannya dengan cuko. banyak bentuk dari pempek ada kapal selam, lenjer, dan kulit yang mana setiap bentuk memiliki rasa yang berbeda beda</item>
+        <item>Sate Madura adalah sate khas madura umumnya sate ini kerap ditemui di pinggir jalan raya dengan gerobak macam perahu mungkin mengikuti filosofi pulau madura yang dikelilingi oleh lautan, sate madura adalah sate yang sakti mereka buka dari jam 4 biasanya sampai dengan jam 4 subuh </item>
+        <item>Toge Goreng adalah makanan yang berasal dari jawabarat isinya berupa miekuning, lontong, daun kucai, toge, dan disiram kuah oncom yang telah diolah dengan berbagai bumbu sehingga menciptakan rasa segar dari toge dan asam manis pedas dari bumbu oncomnya</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/bubur</item>
+        <item>@drawable/coto</item>
+        <item>@drawable/gado</item>
+        <item>@drawable/gudeg</item>
+        <item>@drawable/gule</item>
+        <item>@drawable/martabaktelur</item>
+        <item>@drawable/mieaceh</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/togor</item>
+    </integer-array>
+</resources>

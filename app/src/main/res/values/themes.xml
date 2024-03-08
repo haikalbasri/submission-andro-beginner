@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/red_sashimi</item>
+        <item name="colorPrimaryVariant">@color/red_sashimi</item>
+        <item name="colorOnPrimary">@color/red_sashimi</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorSecondary">@color/red_sashimi</item>
+        <item name="colorSecondaryVariant">@color/red_sashimi</item>
+        <item name="colorOnSecondary">@color/red_sashimi</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
+
+    <style name="Theme.TukangMakan" parent="Base.Theme.TukangMakan">
+    </style>
+</resources>
